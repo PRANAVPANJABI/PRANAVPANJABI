@@ -1,6 +1,6 @@
 # Hi there, I'm Pranavkumar Panjabi 
 
-## AI/ML Enthusiast | Python Developer | M.Tech Graduate
+## AI/ML Enthusiast | M.Tech Graduate | Seeking AI/ML Engineer Opportunities | Python • Machine Learning • NLP
 
 I'm a Computer Engineering M.Tech graduate passionate about Artificial Intelligence, Machine Learning, and Python. I enjoy building practical AI/ML projects that solve real-world problems and continuously improving my skills through hands-on development.
 
