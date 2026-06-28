@@ -1,14 +1,71 @@
-- 👋 # Hello, I’m @PRANAVPANJABI
-- 👀 I’m interested in Web Development and Open-Source Projects
-- 🌱 I’m currently learning Javascript to build dynamic interactive web applications, and I'm also learning Angular for creating powerful front-end experiences.
-- 💞️ I’m looking to collaborate on web development projects that involve JavaScript and Angular.Whether it's contributing to open-source Angular libraries, building interactive JavaScript applications, or working
-  on innovative web solutions, I'm eager to collaborate and learn alongside fellow developers.
-- 📫 How to reach me on
-  Linkedin - https://www.linkedin.com/in/pranavkumar-panjabi-a16257190
-  or you can also send me an email at pranavpanjabi2002@gmail.com
+# Hi there, I'm Pranavkumar Panjabi 
 
+## AI/ML Enthusiast | Python Developer | M.Tech Graduate
 
-<!---
-PRANAVPANJABI/PRANAVPANJABI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Computer Engineering M.Tech graduate passionate about Artificial Intelligence, Machine Learning, and Python. I enjoy building practical AI/ML projects that solve real-world problems and continuously improving my skills through hands-on development.
+
+I'm currently seeking **AI/ML Engineer**, **Machine Learning Engineer**, or **AI/ML Internship** opportunities where I can contribute, learn, and grow as a software engineer.
+
+---
+
+## About Me
+
+* 🎓 M.Tech Graduate in Computer Engineering
+* 🤖 Passionate about Artificial Intelligence & Machine Learning
+* 🧠 Interested in Machine Learning, NLP, Recommendation Systems, and Python Automation
+* 🌱 Currently learning Retrieval-Augmented Generation (RAG), LangChain, and modern AI development tools
+* 💻 Building practical AI/ML and Python projects to strengthen my portfolio
+* 🚀 Actively looking for full-time opportunities as an AI/ML Engineer or Machine Learning Engineer
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+* Python
+* JavaScript
+* SQL
+
+### Machine Learning
+
+* Scikit-learn
+* Pandas
+* NumPy
+* NLTK
+* Data Preprocessing
+* Feature Engineering
+* Recommendation Systems
+* Content-Based Filtering
+
+### Backend Development
+
+* Node.js
+* REST APIs
+
+### Tools
+
+* Git
+* GitHub
+* Google Colab
+* Jupyter Notebook
+* VS Code
+
+---
+
+## Featured Projects
+
+* 🎬 Movie Recommendation System (Machine Learning + NLP)
+* 📂 Smart File Organizer (Python Automation)
+* 📧 Email Validation System (Python)
+* 🔳 QR Code Generator (Python)
+
+---
+
+## Connect with Me
+
+* Email: **[pranavpanjabi2002@gmail.com]**
+
+---
+
+Thanks for visiting my GitHub profile!
